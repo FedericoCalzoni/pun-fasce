@@ -20,8 +20,7 @@ Argomenti:
 * <data_fine>: Data di fine nel formato "YYYY-MM".
 * -csv (opzionale): Se fornito, esporta l'output in CSV.
 
-Esempio:
-`python3 ./pun-fasce.py "2024-01" "2024-09"`
+Il risultato è simile a questo:
 ```text
 Mese	MO (€/kWh)	F1 (€/kWh)	F2 (€/kWh)	F3 (€/kWh)	F23 (€/kWh)
 1/2024	0.099160	0.109650	0.105070	0.089060	0.096425
